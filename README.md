@@ -20,7 +20,7 @@
 * It is more convenient to use the key to enter ISP mode
 * Support Arduino development, provide HID Bootloader, through a simple keystroke operation can burn procedures, no need to download the debugger
 
-For more information please visit:[BluePill-Plus](https://github.com/WeAct-TC/BluePill-Plus.git)
+For more information please visit:[BluePill-Plus](https://github.com/WeActStudio/BluePill-Plus.git)
 
 ## STM32F4x1CEU6 core board
 
@@ -39,7 +39,7 @@ For more information please visit:[BluePill-Plus](https://github.com/WeAct-TC/Bl
 * CMSIS-DAP firmware is available
 * The use of the latest original ST chip, high quality crystal vibration
 
-For more information please visit:[MiniF4-STM32F4x1](https://github.com/WeAct-TC/MiniF4-STM32F4x1.git)
+For more information please visit:[MiniF4-STM32F4x1](https://github.com/WeActStudio/MiniF4-STM32F4x1.git)
 
 ## STM32H7xx core board
 
@@ -58,7 +58,7 @@ For more information please visit:[MiniF4-STM32F4x1](https://github.com/WeAct-TC
 * Support for OpenMV4 development
 * Support C language development
 
-For more information visit:[MiniSTM32H7xx](https://github.com/WeAct-TC/MiniSTM32H7xx.git)
+For more information visit:[MiniSTM32H7xx](https://github.com/WeActStudio/MiniSTM32H7xx.git)
 
 ## NVIDIA Jetson TX1 TX2 motherboard
 
@@ -84,7 +84,7 @@ According to the transmission;
 * Robot Competition
 * unmanned aerial vehicle (uav)
 
-For more information visit:[WeAct-TX1_2-CB](https://github.com/WeAct-TC/WeAct-TX1_2-CB.git)
+For more information visit:[WeAct-TX1_2-CB](https://github.com/WeActStudio/WeAct-TX1_2-CB.git)
 
 ## SY8205 Step-down module
 

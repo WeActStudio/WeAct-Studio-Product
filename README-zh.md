@@ -20,7 +20,7 @@
 * 使用按键进入ISP模式更方便
 * 支持Arduino开发,提供HID bootloader，通过简单的按键操作就可烧录程序，无需下载调试器
 
-更多信息请访问：[BluePill-Plus](https://gitee.com/WeAct-TC/BluePill-Plus.git)
+更多信息请访问：[BluePill-Plus](https://gitee.com/WeActStudio/BluePill-Plus.git)
 
 ## STM32F4x1CEU6 core board
 
@@ -39,7 +39,7 @@
 * 提供CMSIS-DAP固件，秒变下载烧录器
 * 使用最新原装ST芯片，高质量晶振
 
-更多信息请访问：[MiniF4-STM32F4x1](https://gitee.com/WeAct-TC/MiniF4-STM32F4x1.git)
+更多信息请访问：[MiniF4-STM32F4x1](https://gitee.com/WeActStudio/MiniF4-STM32F4x1.git)
 
 ## STM32H7xx core board
 
@@ -58,7 +58,7 @@
 * 支持OpenMV4开发
 * 支持C语言开发
 
-更多信息请访问：[MiniSTM32H7xx](https://gitee.com/WeAct-TC/MiniSTM32H7xx.git)
+更多信息请访问：[MiniSTM32H7xx](https://gitee.com/WeActStudio/MiniSTM32H7xx.git)
 
 ## NVIDIA 英伟达 Jetson TX1 TX2 底板
 
@@ -84,7 +84,7 @@
 * 机器人竞赛
 * 无人机
 
-更多信息请访问：[WeAct-TX1_2-CB](https://gitee.com/WeAct-TC/WeAct-TX1_2-CB.git)
+更多信息请访问：[WeAct-TX1_2-CB](https://gitee.com/WeActStudio/WeAct-TX1_2-CB.git)
 
 ## SY8205 降压模块
 
